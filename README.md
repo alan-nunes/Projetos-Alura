@@ -1,3 +1,7 @@
-Challangers Alura Conversor de Moeda
+<h1 align="center">Challangers Alura Conversor de Moeda </h1>
 
-Nesse challengers fui desafiado a desenvolver um conversor de moeda utilizando API.
+## Descrição do projeto:
+
+<p align="justify">
+O Conversor de Moedas é um programa que tem como função principal utilizar os dados inseridos pelo usuário e fornecer ao mesmo em resposta, junto da api da <b>ExchangeRate</b>, a moeda convertida.
+</p>
